@@ -23,4 +23,4 @@ This program solves the third puzzle of <a href="https://adventofcode.com/2022">
 </table>  
 
 Interesting methods: 
-<a href="https://docs.oracle.com/javase/7/docs/api/java/util/AbstractCollection.html#retainAll(java.util.Collection)"> retainAll</a> is used to create the intersection of two sets.
+<a href="https://docs.oracle.com/javase/7/docs/api/java/util/AbstractCollection.html#retainAll(java.util.Collection)"> retainAll</a> is used to create the intersection of two sets, see <a href="https://github.com/herrhundt/03-AoC-RucksackReorganization/blob/d7a84422371d5431ef52b4d36cfa2e31d5e0069c/RucksackReorg.java#L100"> here</a>
