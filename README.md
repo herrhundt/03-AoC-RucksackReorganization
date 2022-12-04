@@ -14,7 +14,7 @@ This program solves the third puzzle of <a href="https://adventofcode.com/2022">
   </tr> 
     <tr>
      <td>used data structures</td>
-     <td>array, <a href="https://www.w3schools.com/java/java_hashset.asp">HashSet</a></td>
+     <td><a href="https://www.w3schools.com/java/java_arrays.asp">array</a>, <a href="https://www.w3schools.com/java/java_hashset.asp">HashSet</a></td>
    </tr> 
     <tr>
       <td>difficulty</td>
