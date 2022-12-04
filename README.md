@@ -21,3 +21,6 @@ This program solves the third puzzle of <a href="https://adventofcode.com/2022">
       <td>☆☆</td>
     </tr> 
 </table>  
+
+Interesting methods: 
+<a href="https://docs.oracle.com/javase/7/docs/api/java/util/AbstractCollection.html#retainAll(java.util.Collection)"> retainAll</a> is used to create the intersection of two sets.
